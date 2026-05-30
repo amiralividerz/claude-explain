@@ -29,13 +29,13 @@
 ### Option 1 — Install directly from GitHub (recommended)
 
 ```bash
-pip install git+https://github.com/your-username/claude-explain.git
+pip install git+https://github.com/amiralividerz/claude-explain.git
 ```
 
 ### Option 2 — Clone and install locally
 
 ```bash
-git clone https://github.com/your-username/claude-explain.git
+git clone https://github.com/amiralividerz/claude-explain.git
 cd claude-explain
 pip install -e .
 ```
@@ -43,7 +43,7 @@ pip install -e .
 ### Option 3 — One-liner with the install script (Linux / macOS)
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/your-username/claude-explain/main/install.sh | bash
+curl -fsSL https://raw.githubusercontent.com/amiralividerz/claude-explain/main/install.sh | bash
 ```
 
 ---
@@ -246,7 +246,7 @@ If this tool saved you even 30 seconds, consider giving it a star on GitHub — 
 ## نصب
 
 ```bash
-pip install git+https://github.com/your-username/claude-explain.git
+pip install git+https://github.com/amiralividerz/claude-explain.git
 ```
 
 ## تنظیم کلید API
